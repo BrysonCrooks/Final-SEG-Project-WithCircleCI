@@ -1,1 +1,1 @@
-# Final-SEG-Project-WithCircleCI
+Duplicate repository with circleCI implemented.
